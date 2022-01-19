@@ -1,0 +1,14 @@
+.details{
+    text-align: center;
+    font-size: 20px;
+   padding: 20px 0;
+}
+.details__img{
+    width: 40%;
+}
+.link{
+    width: 45%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}

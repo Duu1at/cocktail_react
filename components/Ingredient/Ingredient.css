@@ -1,0 +1,10 @@
+.ingridient{
+    width: 80%;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 20px;
+  
+}
+.ingridient__row{
+    text-align: center;
+}

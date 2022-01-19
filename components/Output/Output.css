@@ -1,0 +1,26 @@
+
+.row{
+width: 90%;
+margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.col-3{
+    text-align: center;
+    width: 25%;
+    margin: 10px 0px;
+    border-radius: 10px;
+  
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.h2{
+    margin:10px 0 20px 0 ;
+}
+.output__img{
+    width: 90%;
+    border-radius: 10px;
+}
